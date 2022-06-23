@@ -1,0 +1,14 @@
+/.dart_tool/
+/.idea/
+/build/
+/.vscode/
+!/pubspec.lock
+!/.packages
+!/.flutter-plugins-dependencies
+!/.flutter-plugins
+.git.zip
+.git
+.flutter-plugins
+	.flutter-plugins-dependencies
+	.packages
+	lib/generated_plugin_registrant.dart

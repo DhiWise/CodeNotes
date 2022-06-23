@@ -1,0 +1,40 @@
+final Map<String, String> enUs = {
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+  "msg_yesterday_at_05": "Yesterday at 05:00",
+  "lbl_share": "Share",
+  "msg_print_hello_wor": "Print Hello World!!!",
+  "lbl_add_edit_item": "Add / Edit Item",
+  "lbl_codepadlite": "CodePadLite",
+  "lbl_java": "java",
+  "lbl_menu": "Menu",
+  "msg_add_to_favourit": "Add to favourites",
+  "lbl_add_tags": "Add tags",
+  "lbl_delete": "Delete",
+  "msg_this_is_code_of": "This is Code of ...",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_25_apr_2022": "25 Apr 2022",
+  "lbl_mainitem": "MainItem",
+  "lbl_python": "python",
+  "msg_this_is_very_go":
+      "This is very good problem in which a lots of students \nstruggle to find the answer, here is my clean code.",
+  "lbl_write_here": "Write Here...",
+  "msg_swapping_can_be":
+      "Swapping can be done using two variables or three\nvariables and if you love python you can use one line\nassigment syntax to do this.",
+  "msg_longest_palindr": "Longest Palindromic Subsequence...",
+  "msg_background_colo": "Background Color",
+  "msg_check_your_app":
+      "Check your app's UI from the below demo screens of your app.",
+  "lbl_all_codes": "All codes",
+  "lbl_date_created": "Date Created",
+  "lbl_save_as_file": "Save as file",
+  "lbl_kotlin": "kotlin",
+  "lbl_main_screen": "Main Screen",
+  "lbl_today_at_13_14": "Today at 13:14",
+  "msg_we_will_learn":
+      "We will  learn to print hello world in every language\nIf you find it helpful, then share among others and \ntry to add by your self also and see how much yo...",
+  "msg_nothing_here_ad": "Nothing Here,Add Item by \npressing ‘+’ button",
+  "lbl_code_title": "Code Title",
+  "lbl_save": "Save",
+  "msg_swap_two_number": "Swap Two Numbers"
+};
